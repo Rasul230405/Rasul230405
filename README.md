@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rasul
-- 👀 I’m interested in Competetive Programming, Game development, Software development and embedded systems
-- 🌱 I’m currently learning Dynamic Programming, C++, C 
+- 👀 I’m interested in Competetive Programming and Machine Learning
+- 🌱 I’m currently learning Machine Learning and Data Science
 - 💞️ I’m looking to collaborate on solving Competetive Programming problems
 - 📫 How to reach me rasulabbaszadehh@gmail.com
 <!---
