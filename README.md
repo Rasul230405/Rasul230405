@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rasul
-- 👀 I’m interested in Competetive Programming and Machine Learning
+- 👀 I’m interested in Competitive Programming, Machine Learning, Mathematics, Game Theory
 - 🌱 I’m currently learning Machine Learning and Data Science
-- 💞️ I’m looking to collaborate on solving Competetive Programming problems
+- 💞️ I’m looking to collaborate on solving Competitive Programming problems
 - 📫 How to reach me rasulabbaszadehh@gmail.com
 <!---
 Rasul230405/Rasul230405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
