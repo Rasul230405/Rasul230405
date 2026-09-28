@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rasul
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Mathematics, Game Theory, Digital Narratives
+- 👀 I’m interested in Computational Finance, Artificial Intelligence, Machine Learning, Mathematics
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 💞️ I’m looking forward to collaborate on solving problems in aforementioned fields
 - 📫 Contact me at rasulabbaszadah@gmail.com
